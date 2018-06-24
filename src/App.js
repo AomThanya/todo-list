@@ -1,9 +1,9 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-require("./css/libs/bootstrap.min.css");
-require("./css/libs/jquery-ui.min.css");
-require("./css/common.css");
-require("./css/base.css");
+import React from 'react'
+import ReactDOM from 'react-dom'
+require("./css/libs/bootstrap.min.css")
+require("./css/libs/jquery-ui.min.css")
+require("./css/common.css")
+require("./css/base.css")
 
 var placeholder = document.createElement("li");
 placeholder.className = "placeholder";
